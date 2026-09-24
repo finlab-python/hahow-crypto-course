@@ -1,0 +1,7 @@
+# price and on-chain caches created by finlab_crypto
+history/
+# notebook runs
+executed/
+.ipynb_checkpoints/
+__pycache__/
+.venv/

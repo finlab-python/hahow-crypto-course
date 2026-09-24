@@ -1,0 +1,8 @@
+finlab_crypto[trade]==0.3.0
+jupyterlab
+yfinance
+PyPortfolioOpt
+ffn
+# PyPortfolioOpt 1.6 uses a scipy internal removed in scipy 1.18
+scipy<1.18
+functions-framework
